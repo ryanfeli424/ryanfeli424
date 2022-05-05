@@ -3,10 +3,6 @@
 #### :+1: tudo sobre mim 
 - 📧: eu estou interessado em aprender a progamar, novas linguagem 
 - 💞️ estou aprendedor mt mais sobre github 
-- 
-- 📫 How to reach me ...
+- 📧:meu email para contato é ryanfeli424@gmail.com
+- 📫 sou tecnico de progamaçao e tecnico de informatica, souy gamer desainer sei fazer muitas logo de loga e tudo mais meu celular para contato é (43)984880696  
 
-<!---
-ryanfeli424/ryanfeli424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
